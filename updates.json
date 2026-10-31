@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "apk": {
-    "version": "2.5.29",
-    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.29/GrowthIntel_App_v2.5.29.apk",
-    "checksum": "6d0728eb9af70bcfe0e797ce250ab9f55d7afa8a847cb6f3947f068437420660",
-    "size": 14945965,
-    "releaseNotes": "GrowthIntel 2.5.29 — Candle Snake and waiting-screen updates\n\nWe’re enhancing GrowthIntel. We’ll be back soon.\n\nPlay Candle Snake while you wait: eat green bull candles to grow, avoid red bear candles, and watch your position. Eating a bear or hitting your own body ends the round with “Position liquidated!” Swipe, use the direction buttons, or play with the arrow keys. The game pauses in the background. Arcade only; no real trades or funds.\n\nThe waiting screen now has Check for updates, with a direct APK download when a newer app is available. This check works independently of the main app service.\n\nInstall over your current GrowthIntel app. Keep the existing app installed; the application ID and signing certificate are unchanged. Existing 2.5.27/2.5.28 installations need this APK update to receive the new waiting-screen controls."
+    "version": "2.5.30",
+    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.30/GrowthIntel_App_v2.5.30.apk",
+    "checksum": "f063d44f4711d6fb562970e59419ca3385ef2c1a09b8953bf177365f53b0c03a",
+    "size": 14945981,
+    "releaseNotes": "GrowthIntel 2.5.30 — Candle Snake and waiting-screen updates\n\nWe’re enhancing GrowthIntel. We’ll be back soon.\n\nPlay Candle Snake while you wait: eat green bull candles to grow, avoid red bear candles, and watch your position. Eating a bear or hitting your own body ends the round with “Position liquidated!” Swipe, use the direction buttons, or play with the arrow keys. The game pauses in the background. Arcade only; no real trades or funds.\n\nImproved phone scrolling and an easy-to-reach Start button.\n\nThe waiting screen now has Check for updates, with a direct APK download when a newer app is available. This check works independently of the main app service.\n\nInstall over your current GrowthIntel app. Keep the existing app installed; the application ID and signing certificate are unchanged. Existing 2.5.27/2.5.28 installations need this APK update to receive the new waiting-screen controls."
   },
   "ota": {
     "version": "2.5.26",
@@ -14,5 +14,5 @@
     "size": 835117,
     "releaseNotes": "Connection recovery, paged history and member search, lighter live updates and transfer usage reporting."
   },
-  "updatedAt": "2026-10-31T20:09:56.265Z"
+  "updatedAt": "2026-10-31T20:16:54.541Z"
 }
