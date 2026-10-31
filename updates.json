@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "apk": {
-    "version": "2.5.26",
-    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.26/GrowthIntel_App_v2.5.26.apk",
-    "checksum": "5665395669ccf18c02c2a7c3ae9f048fbead9234368290df5b4992999302feb1",
-    "size": 14933497,
-    "releaseNotes": "Connection recovery, paged history and member search, lighter live updates and transfer usage reporting."
+    "version": "2.5.27",
+    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.27/GrowthIntel_App_v2.5.27.apk",
+    "checksum": "5af16614fb878733823743b5a60e403c0acdf60fe6f39d70d86fb041a7ccb064",
+    "size": 14937142,
+    "releaseNotes": "GrowthIntel 2.5.27 — migration notice\n\nShows an animated maintenance message while GrowthIntel moves to its new hosting. The complete app opens automatically after the service is ready. Accounts, portfolios and saved research remain protected during the move.\n\nInstall this APK over your current GrowthIntel app; do not uninstall it. This release uses the existing application ID and signing certificate.\n\nThis is an APK update. Database migration and OTA activation remain on hold until source access is restored."
   },
   "ota": {
     "version": "2.5.26",
@@ -14,5 +14,5 @@
     "size": 835117,
     "releaseNotes": "Connection recovery, paged history and member search, lighter live updates and transfer usage reporting."
   },
-  "updatedAt": "2026-10-31T11:14:06.769Z"
+  "updatedAt": "2026-10-31T13:47:40.863Z"
 }
