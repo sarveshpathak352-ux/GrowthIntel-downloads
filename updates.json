@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "apk": {
+    "version": "2.5.23",
+    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.23/GrowthIntel_App_v2.5.23.apk",
+    "checksum": "3c86426a107480ed062409c923cf3abd52050fb10f712eabeb1fc9e2f9161e70",
+    "size": 14928209,
+    "releaseNotes": "Official GrowthIntel app download. Files are unchanged from the previously published release."
+  },
+  "ota": {
+    "version": "2.5.23",
+    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.23/bundle-v2.5.23.zip",
+    "checksum": "c70771a5e370a4d2c392c31f2b8ce4a79ae7a3c9a843c61c01caef721cc944b7",
+    "size": 830553,
+    "releaseNotes": "Official GrowthIntel app download. Files are unchanged from the previously published release."
+  },
+  "updatedAt": "2026-10-31T09:54:36.793Z"
+}
