@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "apk": {
-    "version": "2.5.23",
-    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.23/GrowthIntel_App_v2.5.23.apk",
-    "checksum": "3c86426a107480ed062409c923cf3abd52050fb10f712eabeb1fc9e2f9161e70",
-    "size": 14928209,
-    "releaseNotes": "Official GrowthIntel app download. Files are unchanged from the previously published release."
+    "version": "2.5.26",
+    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.26/GrowthIntel_App_v2.5.26.apk",
+    "checksum": "5665395669ccf18c02c2a7c3ae9f048fbead9234368290df5b4992999302feb1",
+    "size": 14933497,
+    "releaseNotes": "Connection recovery, paged history and member search, lighter live updates and transfer usage reporting."
   },
   "ota": {
-    "version": "2.5.25",
-    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.25/bundle-v2.5.25.zip",
-    "checksum": "e69d053ff37968692303ad476e9f33972633cc1a58e77b967e52c4753195c830",
-    "size": 831068,
-    "releaseNotes": "IPO listing price refresh and dated-source reliability improvements. Unchanged from the previously published app update."
+    "version": "2.5.26",
+    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.26/bundle-v2.5.26.zip",
+    "checksum": "e0f2a5605686c072d11ead1b1e7101923674e3a506756e2029e3609a569a64ae",
+    "size": 835117,
+    "releaseNotes": "Connection recovery, paged history and member search, lighter live updates and transfer usage reporting."
   },
-  "updatedAt": "2026-10-31T10:38:48.319Z"
+  "updatedAt": "2026-10-31T11:14:06.769Z"
 }
