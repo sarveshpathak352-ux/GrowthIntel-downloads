@@ -8,11 +8,11 @@
     "releaseNotes": "Official GrowthIntel app download. Files are unchanged from the previously published release."
   },
   "ota": {
-    "version": "2.5.23",
-    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.23/bundle-v2.5.23.zip",
-    "checksum": "c70771a5e370a4d2c392c31f2b8ce4a79ae7a3c9a843c61c01caef721cc944b7",
-    "size": 830553,
-    "releaseNotes": "Official GrowthIntel app download. Files are unchanged from the previously published release."
+    "version": "2.5.25",
+    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.25/bundle-v2.5.25.zip",
+    "checksum": "e69d053ff37968692303ad476e9f33972633cc1a58e77b967e52c4753195c830",
+    "size": 831068,
+    "releaseNotes": "IPO listing price refresh and dated-source reliability improvements. Unchanged from the previously published app update."
   },
-  "updatedAt": "2026-10-31T09:54:36.793Z"
+  "updatedAt": "2026-10-31T09:58:08.643Z"
 }
