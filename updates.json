@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "apk": {
-    "version": "2.5.27",
-    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.27/GrowthIntel_App_v2.5.27.apk",
-    "checksum": "5af16614fb878733823743b5a60e403c0acdf60fe6f39d70d86fb041a7ccb064",
-    "size": 14937142,
-    "releaseNotes": "GrowthIntel 2.5.27 — migration notice\n\nShows an animated maintenance message while GrowthIntel moves to its new hosting. The complete app opens automatically after the service is ready. Accounts, portfolios and saved research remain protected during the move.\n\nInstall this APK over your current GrowthIntel app; do not uninstall it. This release uses the existing application ID and signing certificate.\n\nThis is an APK update. Database migration and OTA activation remain on hold until source access is restored."
+    "version": "2.5.28",
+    "url": "https://github.com/sarveshpathak352-ux/GrowthIntel-downloads/releases/download/ota-v2.5.28/GrowthIntel_App_v2.5.28.apk",
+    "checksum": "99f002590260b80f3339065643c62ffb6ee65f9dd6ed224444f7abc1bf2ca688",
+    "size": 14941273,
+    "releaseNotes": "GrowthIntel 2.5.28 — A little market break\n\nWe’re enhancing GrowthIntel. We’ll be back soon.\n\nEnjoy an offline Bull or Bear? chart game while you wait. Read simulated candlestick trends, build your score and keep a streak going. The complete app opens automatically when the service is ready.\n\nInstall this APK over your current GrowthIntel app. Keep the existing app installed; this update uses the same application ID and signing certificate."
   },
   "ota": {
     "version": "2.5.26",
@@ -14,5 +14,5 @@
     "size": 835117,
     "releaseNotes": "Connection recovery, paged history and member search, lighter live updates and transfer usage reporting."
   },
-  "updatedAt": "2026-10-31T13:47:40.863Z"
+  "updatedAt": "2026-10-31T19:26:37.765Z"
 }
